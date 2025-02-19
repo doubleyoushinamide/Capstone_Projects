@@ -22,9 +22,9 @@ This repository will be updated regularly with new data analysis projects. Each 
 
 | **Project Name** | **Description of Data** | **Aims of Analysis** | **Data Source** |
 |------------------|-------------------------|---------------------|-----------------|
-| Example Project 1 | Data on customer transactions | Identify purchasing trends | [Kaggle](https://www.kaggle.com/) |
-| Example Project 2 | Health indicators of individuals | Predict risk of diseases | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) |
-| Example Project 3 | Social media user activity | Analyze engagement patterns | [Data World](https://data.world/) |
+| Emmergency 911-Calls | 
+Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA | Identify trends and frequency of reasons for calls | [Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert) |
+| Financial Data Project | This data project we will focus on exploratory data analysis of stock prices | We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016. | [Bank of America](https://en.wikipedia.org/wiki/2008_financial_crisis) |
 
 ---
 
