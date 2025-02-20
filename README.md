@@ -22,8 +22,7 @@ This repository will be updated regularly with new data analysis projects. Each 
 
 | **Project Name** | **Description of Data** | **Aims of Analysis** | **Data Source** |
 |------------------|-------------------------|---------------------|-----------------|
-| Emmergency 911-Calls | 
-Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA | Identify trends and frequency of reasons for calls | [Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert) |
+| Emmergency 911-Calls | Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA | Identify trends and frequency of reasons for calls | [Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert) |
 | Financial Data Project | This data project we will focus on exploratory data analysis of stock prices | We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016. | [Bank of America](https://en.wikipedia.org/wiki/2008_financial_crisis) |
 
 ---
